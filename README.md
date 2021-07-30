@@ -18,9 +18,9 @@ Electrical Stimulation Platform for Muscular &amp; Nervous Tissue
    
 ## Experiment
 - Flat fish (201802)    
-<img src = "./img/flat_fish.png" width="600px">     
+<img src = "./img/flat_fish.PNG" width="600px">     
 - Artifical cell (201806)      
-<img src = "./img/artificial_cell.png" width="600px">     
+<img src = "./img/artificial_cell.PNG" width="600px">     
 - Mouse leg (201807)      
 <img src = "./img/mouse_leg.png" width="600px">
 

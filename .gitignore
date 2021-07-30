@@ -1,4 +1,4 @@
-#
+# Overall
 design
 interface
 
@@ -32,8 +32,3 @@ Release
 *.exe
 *.dll
 *.lib
-
-# Parts
-*.SLDASM
-*.SLDPRT
-*.SLDDRW
