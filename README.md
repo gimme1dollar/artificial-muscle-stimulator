@@ -1,15 +1,31 @@
 # MESS
 Electrical Stimulation Platform for Muscular &amp; Nervous Tissue
 
-## Method
-### Platform Hardware
-![IMG_0857](https://user-images.githubusercontent.com/20160685/88384696-db621880-cde7-11ea-9fc0-62406626ff22.JPG)
+## Architecture
+[Hardawre]
+- Electrical stimulator: AMS4100M
+- Force sensor: Futek
+- Signal Logger(DAQ): National Instruments
 
+[Software]
+- Interface: MFC
+- Optic: openCV
+- Chart plot: ChartDirector
 
+## Platform
+- Overall     
+<img src = "./img/hardware.jfif" width="600px">     
    
-   
-### Experimentation
-![캡처](https://user-images.githubusercontent.com/20160685/88384424-58d95900-cde7-11ea-9b58-518ec210a318.PNG)
+## Experiment
+- Flat fish (201802)    
+<img src = "./img/flat_fish.png" width="600px">     
+- Artifical cell (201806)      
+<img src = "./img/artificial_cell.png" width="600px">     
+- Mouse leg (201807)      
+<img src = "./img/mouse_leg.png" width="600px">
 
+## Related works
+- Yeong-Jin Choi et al., A 3D cell printed muscle construct with tissue-derived bioink for the treatment of volumetric muscle loss, Biomaterials 2019
 
-# Document
+## Contributors
+이주용 강준수

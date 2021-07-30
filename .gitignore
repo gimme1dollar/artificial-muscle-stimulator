@@ -1,0 +1,39 @@
+#
+design
+interface
+
+*.zip
+
+*.opensdf
+*.sdf
+*.ipch
+*.suo
+*.exp
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.aps
+*.user
+*.tlog
+*.obj
+*.log
+*.res
+*.idb
+*.pch
+*.lastbuildstate
+
+# Directories
+ipch
+Debug
+Release
+
+# Executables
+*.exe
+*.dll
+*.lib
+
+# Parts
+*.SLDASM
+*.SLDPRT
+*.SLDDRW
